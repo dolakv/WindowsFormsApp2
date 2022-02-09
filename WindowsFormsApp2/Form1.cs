@@ -29,7 +29,7 @@ namespace WindowsFormsApp2
             label1.Text = Convert.ToString(a + b);
             label2.Text = Convert.ToString(a - b);
             label3.Text = Convert.ToString(a * b);
-
+            label4.Text = Convert.ToString(a / b);
         }
     }
 }
